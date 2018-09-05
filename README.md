@@ -4,4 +4,4 @@ ELK Stack: Elasticsearch, Logstash, Kibana
 # Run
 docker-compose up -d
 
-  - http:localhost/
+  - http://localhost/app/kibana
